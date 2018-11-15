@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542270877 source:c:\users\16154\documents\cfiles\test\implements.c
+	"SqList.h"
+
+1542270660 c:\users\16154\documents\cfiles\test\sqlist.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1542270829 source:c:\users\16154\documents\cfiles\test\main.c
+	"SqList.h"
+
